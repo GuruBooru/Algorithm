@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="완료">
+      <UniqueIdentifier>{652aec68-983e-4c62-84c8-4bf133ce10c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="완료\수학">
+      <UniqueIdentifier>{0e04a6c0-8aa9-4b8c-a284-b6f499860d6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\그래프">
+      <UniqueIdentifier>{802cd7a3-bd43-4da0-b62b-29cbde531cf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\DP">
+      <UniqueIdentifier>{78791995-9456-4795-955e-bc95d33bc6ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\문자열">
+      <UniqueIdentifier>{220d989f-ae02-448f-aac7-745ff4663a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\구현">
+      <UniqueIdentifier>{ea6f1a5a-a71a-46bd-b7a4-536f502f9915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\Data Sturcture">
+      <UniqueIdentifier>{797ec3c9-df4f-4822-b462-dd520e81ff79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\기하학">
+      <UniqueIdentifier>{d20e0f7b-5031-4807-8a49-bf4feb2c37c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="완료\Greedy">
+      <UniqueIdentifier>{746e4774-eb17-4325-871b-0dd3c9fc0855}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OBB-미완.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="도시 분할 계획-미완.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습장.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="절댓값 힙.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="1로 만들기.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2xN 타일링.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2xN 타일링2.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS와 BFS.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="ATM.cpp">
+      <Filter>완료\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Four Squares.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="Hashing.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="IOIOI.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Z.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1, 2, 3 더하기.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기2.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="경로 찾기.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="계단 오르기.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="구간 합 구하기4.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="균형잡힌 세상.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="꽃길.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="나이순  정렬.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="다리 놓기.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 정렬.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="단지 번호 붙이기.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="달팽이는 올라가고 싶다.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="덩치.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="덱.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 0.cpp">
+      <Filter>완료\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="듣보잡.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="랜선자르기.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="마인크래프트.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="모두의마블.cpp">
+      <Filter>완료\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="미로 탐색.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="바이러스.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="부녀회장이 될테야.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="분해합.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="블랙잭.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="뱀과 사다리 게임.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="비밀번호 찾기.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="색종이 만들기.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 카드2.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="스택.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="스택수열.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="연결 요소의 개수.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="영화감독 숌.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="오목.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="요세푸스 문제0.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="유기농배추.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="이항 계수1.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="잃어버린 괄호.cpp">
+      <Filter>완료\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="제로.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="종이의 개수.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="좌표 압축.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="좌표 정렬하기 2.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="좌표 정렬하기.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형에서의 탈출.cpp">
+      <Filter>완료\기하학</Filter>
+    </ClCompile>
+    <ClCompile Include="직각삼각형.cpp">
+      <Filter>완료\기하학</Filter>
+    </ClCompile>
+    <ClCompile Include="집합.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="체스판 다시 칠하기.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="최대 힙-최소 힙.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="최대공약수와 최소공배수.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="카드2.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="카잉 달력.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="케빈 베이커의 6단계 법칙.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="쿼드 트리.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="큐.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토 복층.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="통계학.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="트리플소트.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="파도반 수열.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="패션왕 신해빈.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="팩토리얼 0의 개수.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬수.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터큐.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 함수.cpp">
+      <Filter>완료\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="회의실 배정.cpp">
+      <Filter>완료\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="리모컨.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="도키도키 간식드리미.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="AC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이중 우선순위 큐.cpp">
+      <Filter>완료\Data Sturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="테트로미노.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="적록색약.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="DSLR.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="K번째 수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선분 덮기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="순회 강연.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="그르다 김가놈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="히오스 프로게이머.cpp">
+      <Filter>완료\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="다이나믹이 뭐예요.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="평범한 배낭.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 분배.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="내려가기.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="스티커.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="크리보드.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="줄세우기.cpp">
+      <Filter>완료\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="섬의 개수.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="불켜기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 지름.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="Two Dots.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="타임머신.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="최단경로.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="회로배치.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="탈옥.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선수 과목.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="트리와 쿼리.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="게임 개발.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="우수 마을.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
