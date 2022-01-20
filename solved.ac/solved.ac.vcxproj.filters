@@ -376,6 +376,12 @@
       <Filter>완료\그래프</Filter>
     </ClCompile>
     <ClCompile Include="우수 마을.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="고대 동굴 탐사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크 연결.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
