@@ -40,6 +40,9 @@
     <Filter Include="완료\Greedy">
       <UniqueIdentifier>{746e4774-eb17-4325-871b-0dd3c9fc0855}</UniqueIdentifier>
     </Filter>
+    <Filter Include="완료\구간 질의">
+      <UniqueIdentifier>{89034d86-56f1-4274-95d2-5b265e81b9d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OBB-미완.cpp">
@@ -384,10 +387,13 @@
     <ClCompile Include="네트워크 연결.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="전기가 부족해.cpp">
+    <ClCompile Include="복제 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="복제 로봇.cpp">
+    <ClCompile Include="전기가 부족해.cpp">
+      <Filter>완료\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="구간 합 구하기5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
